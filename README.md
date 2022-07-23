@@ -1,1 +1,1 @@
-# Aquascaping
+# A website with tips and tricks to improve your aquascaping hobby. I will also show you my works for some inspiration.
