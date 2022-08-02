@@ -1,0 +1,22 @@
+.hyperlink {
+    font-family: 'Raleway', Verdana, sans-serif;
+    font-size: 16px;
+    color: #027f40;
+    font-weight: 400;
+}
+
+.header {
+    font-family: 'Raleway', Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Raleway', Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.image1 {
+    max-width: 100%;
+    height: auto;
+}
